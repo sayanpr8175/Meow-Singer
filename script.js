@@ -13,7 +13,7 @@ const cover = document.getElementById('cover');
 
 //Songs 
 
-const songs = ['1','2','3'];
+const songs = ['Sasha Alex Sloan - Older','Said The Sky - Go On Then, Love','Jon Bellion - All Time Low'];
 
 // keep track of songs
 
